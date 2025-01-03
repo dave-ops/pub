@@ -17,10 +17,10 @@ Accomplished IT leader with over 25 years in software development, architecture,
 - Utilized Azure, C#, Databricks, ReactJS, SQL Server, EntityFramework, Python, IOS/Swift, Java/Android
 
 **Senior Software Engineer/Lead Engineer**
-- Directed Division, leading a team of 6 engineers in the development of a React.js application with Node.js microservices, integrating MongoDB and SQL Server.
+- Directed Division, leading a team of 6 engineers in the development of a GIS React.js application with Node.js microservices, integrating MongoDB and SQL Server.
 - Implemented Python ETL processes, geolocation, and intelligent routing solutions.
 - Established CI/CD with Jenkins, Github, SonarQube and SSIS, improving deployment efficiency by 95%.
-- Utilized Azure, AWS, Node.js, Python, Flask, React, TypeScript, Java, Springboot, Microservices, Bootstrap, SQL, Docker, and GraphQL for scalable and efficient system architectures.
+- Utilized Azure, ArcGIS, SSO, AWS, Node.js, Python, Flask, React, TypeScript, Java, Springboot, Microservices, Bootstrap, SQL, Docker, and GraphQL for scalable and efficient system architectures.
 
 **Data Architect & Manager**
 - Managed all SQL Server databases, improving data flow with SSIS ETL processes.
