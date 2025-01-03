@@ -39,7 +39,7 @@ Accomplished IT leader with over 25 years in software development, architecture,
 - Managed Y2K compliance across all codebases.
 - Utilized HTML/JS/VS/CSS, MVC, C#, COBOL, Pascal, PL/SQL, T-SQL for database management.
 
-**Web Developer**
+**Web 1.0 Developer**
 - Developed web interfaces for Mainframe systems, increasing transaction efficiency.
 - Implemented ASP.NET, HTML, CSS, JS, SQL for web development.
 
