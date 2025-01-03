@@ -9,8 +9,12 @@ Accomplished IT leader with over 25 years in software development, architecture,
 ## Experience
 
 **Web 3.0 Developer**
-- Implemented Python, Node.JS, NextJS, Rust, MongoDB, dApps on the Solana Blockchain.
+- Implemented Python, Node.JS, NextJS, Rust, MongoDB, SQL Server, dApps on the Solana Blockchain.
 - Implemented Ubuntu CI/CD Pipelines
+
+**Government Contracts**
+- Business Process Optimization for Various Areas
+- Utilized C#, Databricks, ReactJS, SQL Server, EntityFramework, Python, IOS/Swift, Java/Android
 
 **Senior Software Engineer/Lead Engineer**
 - Directed Division, leading a team of 6 engineers in the development of a React.js application with Node.js microservices, integrating MongoDB and SQL Server.
