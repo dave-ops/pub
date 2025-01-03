@@ -52,7 +52,7 @@ Accomplished IT leader with over 25 years in software development, architecture,
 
 **Web 1.0 Developer**
 - Developed web interfaces for Mainframe systems, increasing transaction efficiency.
-- Implemented ASP, HTML, CSS, JS, VS, SQL for web development.
+- Implemented ASP, AJAX, HTML, CSS, JS, jQuery, SOAP, XML, UML, VS, SQL for web development.
 
 ## Skills
 
