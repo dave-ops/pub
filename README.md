@@ -4,7 +4,7 @@
 
 ## Summary
 
-Accomplished IT leader with over 25 years in software development, architecture, and team management. Expert in Java, .NET, Python, and modern JavaScript frameworks. Proven track record in driving innovation, managing high-performance teams, and enhancing operational efficiency through technology.
+Accomplished IT leader with over 25 years in software development, architecture, and team management. Expert in Java, .NET, Python, and modern JavaScript frameworks with a focus on Clean Code. Proven track record in driving innovation, managing high-performance teams, and enhancing operational efficiency through technology.
 
 ## Experience
 
