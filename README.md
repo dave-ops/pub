@@ -1,6 +1,6 @@
 # pub
 
-david.r.mieli@gmail.com  
+[dave-ops](mailto://david.r.mieli@gmail.com)  
 
 ## Summary
 
