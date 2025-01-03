@@ -20,12 +20,15 @@ Accomplished IT leader with over 25 years in software development, architecture,
 - Directed Division, leading a team of 6 engineers in the development of a React.js application with Node.js microservices, integrating MongoDB and SQL Server.
 - Implemented Python ETL processes, geolocation, and intelligent routing solutions.
 - Established CI/CD with Jenkins, Github, SonarQube and SSIS, improving deployment efficiency by 95%.
-- Utilized Node.js, Python, React, TypeScript, Java, Springboot, Microservices, Bootstrap, SQL, Docker, and GraphQL for scalable and efficient system architectures.
+- Utilized Node.js, Python, Flask, React, TypeScript, Java, Springboot, Microservices, Bootstrap, SQL, Docker, and GraphQL for scalable and efficient system architectures.
 
 **Data Architect & Manager**
 - Managed all SQL Server databases, improving data flow with SSIS ETL processes.
 - Integrated SQL Server with MongoDB for enhanced data solutions.
 - Employed Entity Framework, SSIS, Oracle, Azure, AWS, Python, Jira for development and project management.
+
+**Web 2.0 Developer**
+- Utilized Node.js, Python, Flask, Django, React, Angular, MVC4, Springboot, TypeScript, Java, Microservices, Express.js, Bootstrap, SQL, MongoDB, MySQL, Docker and GraphQL for scalable and efficient system architectures.
 
 **Senior Architect**
 - Led mobile app migration to Swift for iOS/Swift and Java/Kotlin for Android, and web apps to Angular/TypeScript/MongoDB/Node.
