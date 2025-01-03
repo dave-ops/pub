@@ -54,8 +54,6 @@ Accomplished IT leader with over 25 years in software development, architecture,
 - Developed web interfaces for Mainframe systems, increasing transaction efficiency.
 - Implemented ASP, AJAX, HTML, CSS, JS, jQuery, SOAP, Web Sockets, XML, UML, VS, SQL for web development.
 
-## Skills
-
 
 ## Skills
 
