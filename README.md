@@ -66,7 +66,7 @@ Accomplished IT leader with over 25 years in software development, architecture,
 - HTML, CSS, SASS, SCSS, Bootstrap, jQuery, Angular, React, Vue.js, Next.js, Express.js, Flask, Django, Ruby on Rails, WordPress
 
 **Mobile Development**: 
-- Android Development, Ionic
+- iOS Development, Android Development, Cordova, Ionic
 
 **Frameworks/Libraries**: 
 - Entity Framework, Hibernate, Spring, Spring Boot, Redux
