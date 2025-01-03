@@ -52,13 +52,13 @@ Accomplished IT leader with over 25 years in software development, architecture,
 
 **Web 1.0 Developer**
 - Developed web interfaces for Mainframe systems, increasing transaction efficiency.
-- Implemented ASP, AJAX, HTML, CSS, JS, jQuery, SOAP, XML, UML, VS, SQL for web development.
+- Implemented ASP, AJAX, HTML, CSS, JS, jQuery, SOAP, Web Sockets, XML, UML, VS, SQL for web development.
 
 ## Skills
 
 **Programming**: .NET, Java, C#, Python, JavaScript, TypeScript, Node.js, React, Express.js, Next.js, Rust, Angular, Go, ECMAScript
 **Databases**: SQL Server, MongoDB, Oracle, DB2, PostgreSQL, MySQL, NoSQL, RDBMS
 **Cloud**: Azure, AWS, Google Cloud Platform
-**Tools**: Jenkins, SonarQube, SSIS, Cordova, GitLab, Confluence, Splunk, Power BI, TensorFlow, Bash
+**Tools**: Jenkins, SonarQube, SSIS, Cordova, GitLab, Confluence, Splunk, Power BI, TensorFlow, Bash, ArcGIS, SSO
 **Methodologies**: Agile, Waterfall, Kanban, Scrum
 **Specialties**: Microservices, REST APIs, Mobile App Development, Data Modeling, System Architecture, Team Leadership, Project Management, Mentoring, SEO, UX/UI Design, Machine Learning
