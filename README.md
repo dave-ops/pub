@@ -55,6 +55,7 @@ Accomplished IT leader with over 25 years in software development, architecture,
 - Implemented ASP, AJAX, HTML, CSS, JS, jQuery, SOAP, Web Sockets, XML, UML, VS, SQL for web development.
 
 
+
 ## Skills
 
 **Programming**: 
@@ -64,16 +65,16 @@ Accomplished IT leader with over 25 years in software development, architecture,
 - HTML, CSS, SASS, SCSS, Bootstrap, jQuery, Angular, React, Vue.js, Next.js, Express.js, Flask, Django, Ruby on Rails, WordPress
 
 **Mobile Development**: 
-- iOS Development, Android Development, Cordova, Ionic
+- Android, Android Development, Ionic, iOS
 
 **Frameworks/Libraries**: 
 - Entity Framework, Hibernate, Spring, Spring Boot, Redux
 
 **Databases**: 
-- SQL Server, MySQL, PostgreSQL, MongoDB, Oracle, DB2, NoSQL, RDBMS, Teradata, Redis
+- SQL Server, MySQL, PostgreSQL, MongoDB, Oracle, DB2, NoSQL, RDBMS, Teradata, Redis, PL/SQL, T-SQL
 
 **Data Technologies**: 
-- Data Warehouse, Data Modeling, ETL (SSIS, Informatica), Data Analysis, Data Management, Data Structures, SQL, PL/SQL, T-SQL, Power BI, Pandas
+- Data Warehouse, Data Modeling, ETL, Data Analysis, Data Lake, Data Management, Data Manipulation, Data Structures, Power BI, Pandas
 
 **Cloud & DevOps**: 
 - Azure, AWS, Google Cloud Platform, Docker, Terraform, CI/CD, Jenkins, GitLab, GitHub, Git, Kubernetes, Ansible, Puppet
@@ -82,7 +83,7 @@ Accomplished IT leader with over 25 years in software development, architecture,
 - Unit Testing, Integration Testing, Test Automation, Selenium, BDD, TDD
 
 **Software Architecture**: 
-- Microservices, REST APIs, SOAP, Service-Oriented Architecture, Cloud Architecture, Cloud Development, Cloud Infrastructure, PaaS, SaaS
+- Microservices, REST APIs, SOAP, Service-Oriented Architecture, Cloud Architecture, Cloud Development, Cloud Computing, Cloud Infrastructure, PaaS, SaaS, Software Architecture, Solution Architecture, System Architecture
 
 **Security**: 
 - Authentication, Encryption, Identity & Access Management, SSO, TLS, Vulnerability Assessment
@@ -91,19 +92,19 @@ Accomplished IT leader with over 25 years in software development, architecture,
 - TensorFlow, Machine Learning, AI, Analytics
 
 **Project & Product Management**: 
-- Agile, Scrum, Kanban, Waterfall, Project Management, Product Management, Product Lifecycle Management, Mentoring, Training & Development
+- Agile, Scrum, Kanban, Waterfall, Project Management, Product Management, Product Lifecycle Management, Mentoring, Training & Development, Project Leadership
 
 **Tools**: 
-- Jira, Confluence, SonarQube, Splunk, Visio, Visual Studio, TFS, Power BI, Bash, PowerShell, ArcGIS
+- Jira, Confluence, SonarQube, Splunk, Visio, Visual Studio, TFS, Power BI, Bash, PowerShell, ArcGIS, Gradle, SVN
 
 **UX/UI**: 
-- UX/UI Design, Responsive Web Design, Usability, Web Accessibility
+- UX/UI Design, Responsive Web Design, Usability, Web Accessibility, UI Design
 
 **Business Applications**: 
-- CRM, ERP (Microsoft Dynamics 365), CMS, E-commerce, B2B, Salesforce, SharePoint, SSRS
+- CRM, ERP (Microsoft Dynamics 365), CMS, E-commerce, B2B, B2C, Salesforce, SharePoint, SSRS
 
 **Miscellaneous**: 
-- SEO, SEO Tools, Digital Marketing, Google Analytics, Technical Writing, Telemetry, Image Processing, Metadata, Middleware, Distributed Systems, Enterprise Software
+- SEO, SEO Tools, Digital Marketing, Google Analytics, Technical Writing, Telemetry, Image Processing, Metadata, Middleware, Distributed Systems, Distributed Computing, Enterprise Software, Accounting Software, Restaurant Experience, Organizational Skills, Time Management, Leadership, Communication Skills
 
 **Operating Systems**: 
 - Windows, Linux (Debian, Ubuntu), Mac OS
@@ -112,4 +113,4 @@ Accomplished IT leader with over 25 years in software development, architecture,
 - DNS, LDAP
 
 **Other**: 
-- Performance Tuning, Scalability, Design Patterns, OOP, Debugging, Scripting, Shell Scripting
+- Performance Tuning, Scalability, Design Patterns, OOP, Debugging, Scripting, Shell Scripting, SDKs, SDLC
