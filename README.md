@@ -56,9 +56,62 @@ Accomplished IT leader with over 25 years in software development, architecture,
 
 ## Skills
 
-**Programming**: .NET, Java, C#, Python, JavaScript, TypeScript, Node.js, React, Express.js, Next.js, Rust, Angular, Go, ECMAScript
-**Databases**: SQL Server, MongoDB, Oracle, DB2, PostgreSQL, MySQL, NoSQL, RDBMS
-**Cloud**: Azure, AWS, Google Cloud Platform
-**Tools**: Jenkins, SonarQube, SSIS, Cordova, GitLab, Confluence, Splunk, Power BI, TensorFlow, Bash, ArcGIS, SSO
-**Methodologies**: Agile, Waterfall, Kanban, Scrum
-**Specialties**: Microservices, REST APIs, Mobile App Development, Data Modeling, System Architecture, Team Leadership, Project Management, Mentoring, SEO, UX/UI Design, Machine Learning
+
+## Skills
+
+**Programming**: 
+- .NET, .NET Core, ASP.NET, ASP.NET Core, C#, C, C++, Java, JavaScript, Python, Ruby, PHP, Go, TypeScript, Rust, ECMAScript, Kotlin, Swift, Bash, COBOL
+
+**Web Technologies**: 
+- HTML, CSS, SASS, SCSS, Bootstrap, jQuery, Angular, React, Vue.js, Next.js, Express.js, Flask, Django, Ruby on Rails, WordPress
+
+**Mobile Development**: 
+- Android Development, Ionic
+
+**Frameworks/Libraries**: 
+- Entity Framework, Hibernate, Spring, Spring Boot, Redux
+
+**Databases**: 
+- SQL Server, MySQL, PostgreSQL, MongoDB, Oracle, DB2, NoSQL, RDBMS, Teradata, Redis
+
+**Data Technologies**: 
+- Data Warehouse, Data Modeling, ETL (SSIS, Informatica), Data Analysis, Data Management, Data Structures, SQL, PL/SQL, T-SQL, Power BI, Pandas
+
+**Cloud & DevOps**: 
+- Azure, AWS, Google Cloud Platform, Docker, Terraform, CI/CD, Jenkins, GitLab, GitHub, Git, Kubernetes, Ansible, Puppet
+
+**Testing & QA**: 
+- Unit Testing, Integration Testing, Test Automation, Selenium, BDD, TDD
+
+**Software Architecture**: 
+- Microservices, REST APIs, SOAP, Service-Oriented Architecture, Cloud Architecture, Cloud Development, Cloud Infrastructure, PaaS, SaaS
+
+**Security**: 
+- Authentication, Encryption, Identity & Access Management, SSO, TLS, Vulnerability Assessment
+
+**AI & Machine Learning**: 
+- TensorFlow, Machine Learning, AI, Analytics
+
+**Project & Product Management**: 
+- Agile, Scrum, Kanban, Waterfall, Project Management, Product Management, Product Lifecycle Management, Mentoring, Training & Development
+
+**Tools**: 
+- Jira, Confluence, SonarQube, Splunk, Visio, Visual Studio, TFS, Power BI, Bash, PowerShell, ArcGIS
+
+**UX/UI**: 
+- UX/UI Design, Responsive Web Design, Usability, Web Accessibility
+
+**Business Applications**: 
+- CRM, ERP (Microsoft Dynamics 365), CMS, E-commerce, B2B, Salesforce, SharePoint, SSRS
+
+**Miscellaneous**: 
+- SEO, SEO Tools, Digital Marketing, Google Analytics, Technical Writing, Telemetry, Image Processing, Metadata, Middleware, Distributed Systems, Enterprise Software
+
+**Operating Systems**: 
+- Windows, Linux (Debian, Ubuntu), Mac OS
+
+**Networking**: 
+- DNS, LDAP
+
+**Other**: 
+- Performance Tuning, Scalability, Design Patterns, OOP, Debugging, Scripting, Shell Scripting
