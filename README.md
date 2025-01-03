@@ -1,6 +1,6 @@
 # pub
 
-[dave-ops](mailto://david.r.mieli@gmail.com)  
+**Contact**: [dave-ops](mailto://david.r.mieli@gmail.com)
 
 ## Summary
 
@@ -14,7 +14,7 @@ Accomplished IT leader with over 25 years in software development, architecture,
 
 **Government Contracts**
 - Business Process Optimization for Various Areas
-- Utilized Azure, C#, Databricks, ReactJS, SQL Server, EntityFramework, Python, IOS/Swift, Java/Android
+- Utilized Azure, BPM, C#, Databricks, ReactJS, SQL Server, EntityFramework, Python, IOS/Swift, Java/Android
 
 **Senior Software Engineer/Lead Engineer**
 - Directed Division, leading a team of 6 engineers in the development of a GIS React.js application with Node.js microservices, integrating MongoDB and SQL Server.
@@ -30,9 +30,9 @@ Accomplished IT leader with over 25 years in software development, architecture,
 **Web 2.0 Developer**
 - Utilized Node.js, Python, Flask, Django, React, Angular, MVC4, Springboot, TypeScript, Java, Microservices, Express.js, Bootstrap, SQL, MongoDB, MySQL, Docker and GraphQL for scalable and efficient system architectures.
 
-**Senior Architect**
-- Led mobile app migration to Swift for iOS/Swift and Java/Kotlin for Android, and web apps to Angular/TypeScript/MongoDB/Node.
-- Incorporated Bootstrap, Node.js, SASS/SCSS, Express.js, Angular, React, SQL, MongoDB, iOS/Swift, Android, JAVA, Springboot.
+**Logistics Mobile Application Senior Architect/Developer Lead**
+- Led development team to build a Logistics Mobile App on a Microservice Tier using native Swift for iOS/Swift, Java/Kotlin for Android, and LAMP for web.
+- Incorporated Git, SonarQube, Bootstrap, Node.js, SASS/SCSS, Express.js, Angular, React, SQL Server, MongoDB, iOS/Swift, Android, JAVA, Springboot, Google APIs, AWS.
 
 **Director of Application Development**
 - Spearheaded the implementation of Microsoft Dynamics CRM with custom integration into native iPhone/Android apps.
@@ -44,7 +44,7 @@ Accomplished IT leader with over 25 years in software development, architecture,
 
 **Java Oracle Developer**
 - Pioneered the transition of Home-Grown Microsoft applications to Java/Oracle environments.
-- Utilized C#, Java, J2EE, SQL, Oracle, OOP, Design Patterns, Service-oriented Architecture, MQ Series.
+- Utilized C#, Java, J2EE, Struts, SQL, Oracle, OOP, Design Patterns, Service-oriented Architecture, MQ Series.
 
 **Y2K Remediation Team Lead**
 - Managed Y2K compliance across all codebases.
