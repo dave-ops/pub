@@ -12,17 +12,17 @@ Accomplished IT leader with over 25 years in software development, architecture,
 - Implemented Python, Node.JS, NextJS, Rust, MongoDB, SQL Server, dApps on the Solana Blockchain.
 - Implemented Ubuntu CI/CD Pipelines
 
-**Government Contracts**
+**Family Services - Government Contracts**
 - Business Process Optimization for Various Areas
 - Utilized Azure, BPM, C#, Databricks, ReactJS, SQL Server, EntityFramework, Python, IOS/Swift, Java/Android
 
-**Senior Software Engineer/Lead Engineer**
+**Fiber Optics and Engineering Senior Software Engineer/Lead Engineer**
 - Directed Division, leading a team of 6 engineers in the development of a GIS React.js application with Node.js microservices, integrating MongoDB and SQL Server.
 - Implemented Python ETL processes, geolocation, and intelligent routing solutions.
 - Established CI/CD with Jenkins, Github, SonarQube and SSIS, improving deployment efficiency by 95%.
 - Utilized Azure, ArcGIS, SSO, AWS, Node.js, Python, Flask, React, TypeScript, Java, Springboot, Microservices, Bootstrap, SQL, Docker, and GraphQL for scalable and efficient system architectures.
 
-**Data Architect & Manager**
+**Fiber Optics and Engineering - Data Architect & Manager**
 - Managed all SQL Server databases, improving data flow with SSIS ETL processes.
 - Integrated SQL Server with MongoDB for enhanced data solutions.
 - Employed Entity Framework, SSIS, Oracle, Azure, AWS, Python, Jira for development and project management.
@@ -34,26 +34,25 @@ Accomplished IT leader with over 25 years in software development, architecture,
 - Led development team to build a Logistics Mobile App on a Microservice Tier using native Swift for iOS/Swift, Java/Kotlin for Android, and LAMP for web.
 - Incorporated Git, SonarQube, Bootstrap, Node.js, SASS/SCSS, Express.js, Angular, React, SQL Server, MongoDB, iOS/Swift, Android, JAVA, Springboot, Google APIs, AWS.
 
-**Director of Application Development**
+**Logistics - Director of Application Development**
 - Spearheaded the implementation of Microsoft Dynamics CRM with custom integration into native iPhone/Android apps.
 - Applied Entity Framework, SSIS, ASP.NET, C#, and .NET for backend development.
 
-**Application Architect**
+**Life Insurance  - Application Architect**
 - Designed text-to-voice VXML and IVR systems, enhancing customer service automation.
 - Leveraged Telephony, HLLAPI, OLE, XML, SQL, Java, J2EE, C++, and C# for system development.
 
-**Java Oracle Developer**
+**Life Insurance - Java Oracle Developer**
 - Pioneered the transition of Home-Grown Microsoft applications to Java/Oracle environments.
 - Utilized C#, Java, J2EE, Struts, SQL, Oracle, OOP, Design Patterns, Service-oriented Architecture, MQ Series.
 
-**Y2K Remediation Team Lead**
+**Life Insurance - Y2K Remediation Team Lead**
 - Managed Y2K compliance across all codebases.
 - Utilized HTML/JS/VS/CSS, MVC, C#, COBOL, Java, J2EE, Pascal, PL/SQL, T-SQL for database management.
 
 **Web 1.0 Developer**
 - Developed web interfaces for Mainframe systems, increasing transaction efficiency.
 - Implemented ASP, AJAX, HTML, CSS, JS, jQuery, SOAP, Web Sockets, XML, UML, VS, SQL for web development.
-
 
 
 ## Skills
@@ -95,7 +94,7 @@ Accomplished IT leader with over 25 years in software development, architecture,
 - Agile, Scrum, Kanban, Waterfall, Project Management, Product Management, Product Lifecycle Management, Mentoring, Training & Development, Project Leadership
 
 **Tools**: 
-- Jira, Confluence, SonarQube, Splunk, Visio, Visual Studio, TFS, Power BI, Bash, PowerShell, ArcGIS, Gradle, SVN
+- IBM AquaLogic, Jira, Confluence, SonarQube, Splunk, Visio, Visual Studio, TFS, Power BI, Bash, PowerShell, ArcGIS, Gradle, SVN
 
 **UX/UI**: 
 - UX/UI Design, Responsive Web Design, Usability, Web Accessibility, UI Design
