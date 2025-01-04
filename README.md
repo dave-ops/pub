@@ -30,11 +30,11 @@ Accomplished IT leader with over 25 years in software development, architecture,
 **Web 2.0 Developer**
 - Utilized Node.js, Python, Flask, Django, React, Angular, MVC4, Springboot, TypeScript, Java, Microservices, Express.js, Bootstrap, SQL, MongoDB, MySQL, Docker and GraphQL for scalable and efficient system architectures.
 
-**Logistics Mobile Application Senior Architect/Developer Lead**
+**Logistics - Mobile Application Senior Architect/Developer Lead**
 - Led development team to build a Logistics Mobile App on a Microservice Tier using native Swift for iOS/Swift, Java/Kotlin for Android, and LAMP for web.
 - Incorporated Git, SonarQube, Bootstrap, Node.js, SASS/SCSS, Express.js, Angular, React, SQL Server, MongoDB, iOS/Swift, Android, JAVA, Springboot, Google APIs, AWS.
 
-**Logistics - Director of Application Development**
+**FMCSA - Director of Application Development**
 - Spearheaded the implementation of Microsoft Dynamics CRM with custom integration into native iPhone/Android apps.
 - Applied Entity Framework, SSIS, ASP.NET, C#, and .NET for backend development.
 
