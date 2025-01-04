@@ -16,7 +16,7 @@ Accomplished IT leader with over 25 years in software development, architecture,
 - Business Process Optimization for Various Areas
 - Utilized Azure, BPM, C#, Databricks, ReactJS, SQL Server, EntityFramework, Python, IOS/Swift, Java/Android
 
-**Fiber Optics and Engineering Senior Software Engineer/Lead Engineer**
+**Fiber Optics and Engineering - Senior Software Engineer/Lead Engineer**
 - Directed Division, leading a team of 6 engineers in the development of a GIS React.js application with Node.js microservices, integrating MongoDB and SQL Server.
 - Implemented Python ETL processes, geolocation, and intelligent routing solutions.
 - Established CI/CD with Jenkins, Github, SonarQube and SSIS, improving deployment efficiency by 95%.
