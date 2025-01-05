@@ -1,3 +1,21 @@
-.dist
-node_modules
-solana-nft-mart
+# node
+.dist/
+node_modules/
+
+# Logs
+logs
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# merges
+*.orig
+*.bak
+
+# Other
+coverage/
+*.tsbuildinfo
+
+# projects
+solana-nft-mart/
