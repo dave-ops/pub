@@ -1,5 +1,5 @@
 # dave-ops
-  [email](mailto://blvckstone.vlabs.cx)
+[contact](mailto://blvckstone@vlabs.cx)
 
 ## Summary
 
