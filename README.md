@@ -70,7 +70,7 @@ IT visionary with over 25 years of experience in software development, architect
 
 ## Education
 ## Education
-- **University of Missouri, Kansas City, MO**  
+- **University of UNDISCLOSED**  
   - **Bachelor of Information Technology** (1999-2003, Partial completion) - Discontinued to start a family. *Note: 4.0 GPA*
   - **Architecture and Environmental Design** (1990-1993) - Discontinued due to financial constraints.       *Note: First Chair in Studio*
 
