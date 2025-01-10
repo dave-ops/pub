@@ -6,7 +6,7 @@ IT visionary with over 25 years of experience in software development, architect
 
 ## Experience
 
-**NDA - Founder, CTO, CEO, CFO, Architect, DBA, Lead Engineer**  
+**CONFIDENTIAL - Founder, CTO, CEO, CFO, Architect, DBA, Lead Engineer**  
 *Kansas City, MO - 2012-2024*  
 - Established and grew a software consulting company specializing in Clean Code and the elimination of Technical Debt, focusing on American-made software.
 - Expanded operations across three states (CO, KS, MO), achieving a $15 million valuation through strategic growth and leadership.
@@ -68,7 +68,6 @@ IT visionary with over 25 years of experience in software development, architect
 - Enhanced operational efficiency by implementing innovative tech solutions across various industries.
 - Led teams through significant tech transitions, significantly improving system performance and user experience.
 
-## Education
 ## Education
 - **University of UNDISCLOSED**  
   - **Bachelor of Information Technology** (1999-2003, Partial completion) - Discontinued to start a family. *Note: 4.0 GPA*
