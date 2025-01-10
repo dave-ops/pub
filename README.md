@@ -6,6 +6,14 @@ IT visionary with over 25 years of experience in software development, architect
 
 ## Experience
 
+**Vertical Merger - Founder, CTO, CEO, CFO, Architect, DBA, Lead Engineer**  
+*Kansas City, MO - 2012-2024*  
+- Established and grew a software consulting company specializing in Clean Code and the elimination of Technical Debt, focusing on American-made software.
+- Expanded operations across three states (CO, KS, MO), achieving a $15 million valuation through strategic growth and leadership.
+- Took on multiple executive and technical roles, managing all aspects of the business from development to financial strategy.
+- Led the company to a peak of 5 employees, prioritizing their welfare by sacrificing personal salary to ensure comprehensive benefits and employment stability.
+- Closed the business in 2024 due to challenges in the local developer market in Kansas City, where it became increasingly difficult to find qualified local talent.
+
 **Web 3.0 Developer**  
 - Pioneered development on Solana Blockchain using Python, Node.js, Next.js, Rust, MongoDB, and SQL Server; implemented Ubuntu CI/CD pipelines.
 
@@ -46,18 +54,21 @@ IT visionary with over 25 years of experience in software development, architect
 - Enhanced mainframe systems' web interface, improving transaction efficiency with ASP, AJAX, HTML, CSS, JS, jQuery, SOAP, Web Sockets, and XML.
 
 ## Skills
-
-**Programming Languages:** .NET, Java, JavaScript, Python, C#, SQL, Rust, Swift, Kotlin  
-**Frameworks/Libraries:** React, Angular, Node.js, Spring Boot, Express.js, Django, Flask  
-**Databases:** SQL Server, MongoDB, Oracle, MySQL  
-**Cloud & DevOps:** Azure, AWS, Docker, CI/CD, Jenkins, GitHub  
-**Mobile Development:** iOS/Swift, Android/Java/Kotlin  
-**Project Management:** Agile, Scrum, Kanban  
-**Other:** Microservices, REST APIs, AI/ML, Security (SSO, Encryption)
+- **Programming Languages:** .NET, Java, JavaScript, Python, C#, SQL, Rust, Swift, Kotlin  
+- **Frameworks/Libraries:** React, Angular, Node.js, Spring Boot, Express.js, Django, Flask  
+- **Databases:** SQL Server, MongoDB, Oracle, MySQL  
+- **Cloud & DevOps:** Azure, AWS, Docker, CI/CD, Jenkins, GitHub  
+- **Mobile Development:** iOS/Swift, Android/Java/Kotlin  
+- **Project Management:** Agile, Scrum, Kanban  
+- **Other:** Microservices, REST APIs, AI/ML, Security (SSO, Encryption)
 
 ## Achievements
+- Scaled Vertical Merger from inception to a $5M enterprise, reinforcing industry standards for Clean Code and Technical Debt management.
+- Demonstrated exceptional leadership by managing multiple critical roles, ensuring team satisfaction and business growth in a challenging market.
 - Enhanced operational efficiency by implementing innovative tech solutions across various industries.
 - Led teams through significant tech transitions, significantly improving system performance and user experience.
 
 ## Education
-- Self-taught programmer, with a lifelong commitment to learning and adapting to new technologies.
+- **University of Missouri, Kansas City, MO**  
+  - **Bachelor of Information Technology** (Partial completion, 1999-2003) - Discontinued to start a family.
+  - **Architecture and Environmental Design** (1990-1993) - Discontinued due to financial constraints.
