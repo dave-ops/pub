@@ -6,7 +6,7 @@ IT visionary with over 25 years of experience in software development, architect
 
 ## Experience
 
-**Vertical Merger - Founder, CTO, CEO, CFO, Architect, DBA, Lead Engineer**  
+**NDA - Founder, CTO, CEO, CFO, Architect, DBA, Lead Engineer**  
 *Kansas City, MO - 2012-2024*  
 - Established and grew a software consulting company specializing in Clean Code and the elimination of Technical Debt, focusing on American-made software.
 - Expanded operations across three states (CO, KS, MO), achieving a $15 million valuation through strategic growth and leadership.
